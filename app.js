@@ -43,4 +43,4 @@ searchForm.addEventListener("submit", (e)=>{
 showMoreBtn.addEventListener("click", ()=>{
     page++;
     searchImages();
-})
+});
